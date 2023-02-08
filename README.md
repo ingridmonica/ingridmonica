@@ -6,8 +6,8 @@ Olá! Eu sou a Ingrid Mônica
 
 <div>
   <a href="https://github.com/ingridmonica">
-  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=ingridmonica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmonica&layout=compact&langs_count=16&theme=radical"/>
+  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=ingridmonica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>
+  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmonica&layout=compact&langs_count=16&theme=radical"/></a>
 </div>
 
 <div style="display: inline_block"><br>
