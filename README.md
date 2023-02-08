@@ -6,12 +6,13 @@ Olá! Eu sou a Ingrid Mônica
 
 <div>
   <a href="https://github.com/ingridmonica">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ingridmonica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmonica&layout=compact&langs_count=16&theme=radical"/>
+  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=ingridmonica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmonica&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ingrid-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img aling="center" alt="Ingrid-Pygame" height="30" width="40" src="https://www.pygame.org/ftp/pygame-head-party.png">
   <img align="center" alt="Ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ingrid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
