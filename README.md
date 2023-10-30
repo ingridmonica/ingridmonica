@@ -1,6 +1,5 @@
 Olá! Eu sou a Ingrid Mônica
 
-- 📚 Estudando Segurança da informação
 - 💻 Graduanda em Sistemas de informação
 - 🗣️ Pronomes: ela/dela
 
