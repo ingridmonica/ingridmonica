@@ -1,7 +1,6 @@
 Olá! Eu sou a Ingrid Mônica
 
 - 💻 Graduanda em Sistemas de informação
-- 🗣️ Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/ingridmonica">
